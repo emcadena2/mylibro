@@ -1,11 +1,11 @@
-# Welcome to your Jupyter Book
+# Bienvenido a my libro
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+ [este es el link de my github](https://github.com/emcadena2/mylibro) para mas informacion
 
-Check out the content pages bundled with this sample book to see more.
+ [este es el link de de la pagina](https://emcadena2.github.io/mylibro/intro.html)
+
+ 
+
 
 ```{tableofcontents}
 ```
